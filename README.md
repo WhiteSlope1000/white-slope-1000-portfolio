@@ -5,7 +5,7 @@
 >**状況:** *Maintenance*<br>
 <details>
 <summary>📒<strong>詳細</strong></summary>
-<img align="right" height="256" src="https://github.com/WhiteSlope1000/python-repository-01/blob/WhiteSlope1000-patch-readme/project_settings/ai_bot_v1.gif"/>
+<img align="right" height="256" src="https://github.com/WhiteSlope1000/white-slope-portfolio/blob/main/project_settings/ai_bot_v1.gif"/>
 <br>
 
 >Qtフレームワークを使用した簡易AIチャットソフト。<br>
@@ -34,7 +34,7 @@ python start_application.py
 #### :octocat:各クラスの関係とフローチャート:octocat:
 |クラスの関係|フローチャート|
 |---|---|
-|<img height="256" src="https://github.com/WhiteSlope1000/python-repository-01/blob/WhiteSlope1000-patch-readme/project_settings/ai_bot_v1_class.png"/> | <img height="256" src="https://github.com/WhiteSlope1000/python-repository-01/blob/WhiteSlope1000-patch-readme/project_settings/ai_bot_v1_flowchart.png"/>|
+|<img height="256" src="https://raw.githubusercontent.com/WhiteSlope1000/white-slope-portfolio/main/project_settings/ai_bot_v1_class.png"/> | <img height="256" src="https://raw.githubusercontent.com/WhiteSlope1000/white-slope-portfolio/main/project_settings/ai_bot_v1_flowchart.png"/>|
 
 <br>
 
