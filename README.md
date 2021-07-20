@@ -8,7 +8,7 @@
 <img align="right" height="256" src="https://github.com/WhiteSlope1000/white-slope-portfolio/blob/main/project_settings/ai_bot_v1.gif"/>
 <br>
 
->Qtフレームワークを使用した簡易AIチャットソフト。<br>
+>Qt フレームワークを使用した簡易AIチャットソフト。<br>
 >青空文庫からダウンロードしたHTMLファイルをもとに、Nグラム解析や形態素解析を使って単語を作成し、マルコフ連鎖を使って文章を作成し出力します。
 <br>
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 <br>
 
 #### ✨起動方法✨
->`ai_talkbot_version01`フォルダにあるstart_application.pyをPythonで実行してください。
+>`ai_talkbot_version01`フォルダにある`start_application.py`をpythonで実行してください。
 ```
 python start_application.py
 ``` 
@@ -57,7 +57,7 @@ python start_application.py
 <summary>📒<strong>詳細</strong></summary>
 <br>
 
->Qtフレームワークを使用した簡易AIチャットソフト。<br>
+>Qt フレームワークを使用した簡易AIチャットソフト。<br>
 >Ver.1 を元にし、さらに発展した自然言語処理の手法や、ニューラルネットワークなどの機械学習アルゴリズムを用いた文章作成を目指しています。<br>
 
 <br>
