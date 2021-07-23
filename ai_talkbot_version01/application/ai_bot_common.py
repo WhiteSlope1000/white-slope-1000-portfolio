@@ -16,6 +16,7 @@ class BotInterface(object):
         self.starting_token_list = starting_token_list
         self.token_list = token_list
 
+
 class BotBase(object):
     def make_sentence(self, starting_token_list, token_list):
         self.RaiseError(name=__name__, ExceptionClass=self.NoOverwrittenError)

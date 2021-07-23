@@ -49,24 +49,6 @@ class DatabaseDownloadInterface(object):
             cls.path_source = os.path.join(cls.config.PATH_TMP, cls.filename_source)
 
     @classmethod
-    def remove_tempfiles(cls):
-        os.makedirs(cls.config.PATH_TMP, exist_ok=True)
-
-        cls.setup_paths()
-        if os.path.exists(cls.path_html):
-            os.remove(cls.path_html)
-        if os.path.exists(cls.path_source):
-            os.remove(cls.path_source)
-
-    @classmethod
-    def setup_paths(cls):
-        try:
-            cls.path_html
-        except AttributeError:
-            cls.path_html = os.path.join(cls.config.PATH_TMP, cls.filename_html)
-            cls.path_source = os.path.join(cls.config.PATH_TMP, cls.filename_source)
-
-    @classmethod
     def do_download_html(cls):
         cls.setup_paths()
         cls.is_downloading_html = True
