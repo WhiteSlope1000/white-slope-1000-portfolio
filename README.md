@@ -74,7 +74,7 @@ python start_application.py
 <br>
  
  >mecab を使用してテキスト中の品詞（トークン）やその関連性（エッジ）を情報化。
- >そのデータを、matlibplot や kivy を使用してグラフ上で解析できるようにしたものです。
+ >そのデータを、matplotlib や kivy を使用してグラフ上で解析できるようにしたものです。
 
  <br>
 </details>
