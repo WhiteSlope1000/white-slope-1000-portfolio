@@ -62,3 +62,19 @@ python start_application.py
 
 <br>
 </details>
+
+-----
+## 👩‍💻共起 Network Analyzer Ver.1
+>**対応:** *Windows*<br>
+>**言語:** *Python*<br>
+>**状況:** *Develop*<br>
+<details>
+<summary>📒<strong>詳細</strong></summary>
+<img align="right" height="256" src="https://github.com/WhiteSlope1000/white-slope-portfolio/blob/main/project_settings/ai_network.gif"/>
+<br>
+ 
+ >mecab を使用してテキスト中の品詞（トークン）やその関連性（エッジ）を情報化。
+ >そのデータを、matlibplot や kivy を使用してグラフ上で解析できるようにしたものです。
+
+ <br>
+</details>
