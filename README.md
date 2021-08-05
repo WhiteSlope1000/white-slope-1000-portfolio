@@ -67,7 +67,7 @@ python start_application.py
 ## 👩‍💻共起 Network Analyzer Ver.1
 >**対応:** *Windows*<br>
 >**言語:** *Python*<br>
->**状況:** *Develop*<br>
+>**状況:** *Maintenance*<br>
 <details>
 <summary>📒<strong>詳細</strong></summary>
 <img align="right" height="256" src="https://github.com/WhiteSlope1000/white-slope-portfolio/blob/main/project_settings/ai_network.gif"/>
@@ -77,4 +77,24 @@ python start_application.py
  >そのデータを、matplotlib や kivy を使用してグラフ上で解析できるようにしたものです。
 
  <br>
+ 
+ #### 💻動作要件💻
+>- Mecab がインストールされていること。( Mecab：https://github.com/ikegami-yukino/mecab/releases/tag/v0.996 )
+>- Mecab にNEologd辞書が登録されていること。
+>- `network_analyzer01`フォルダの`requirements.txt`に記述されている python モジュール群がインストールされていること。
+>- pip で python モジュール群を一括インストールする場合は、ターミナル上で`requirements.txt`のある`network_analyzer01`へ移動し、下記コマンドを実行してください。
+
+```
+pip install -r requirements.txt
+``` 
+
+<br>
+
+#### ✨起動方法✨
+>`network_analyzer01`フォルダにある`ai_nx_analyzer.py`をpythonで実行してください。
+```
+python ai_nx_analyzer.py
+``` 
+
+<br>
 </details>
